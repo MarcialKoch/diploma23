@@ -2,6 +2,13 @@
 	Original files here: http://www.dynamicdrive.com/dynamicindex17/tilt-content-boxes.htm
 */
 
+span{
+display: block;
+transform:  translateZ(50px) scale(0.7);
+position: absolute;
+font-size: 3vw;
+color: red;
+}
 
 .tiltwrapper{
   padding: 0;
